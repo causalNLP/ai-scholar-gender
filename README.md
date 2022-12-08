@@ -38,6 +38,7 @@ This is the (private) repo for AI Scholar (gender project).
 ### data
   - `AIScholars78k_samp1000.csv`: 1000 samples of the 78k AI scholar dataset. Full dataset can be accessed from [Google Drive link](https://drive.google.com/file/d/1sfNLH549c0IMp-hojnpmskBftsW5jB7a/view?usp=sharing).
   - `Papers100k_samp1000.csv`: 1000 samples of the 100k paper dataset. Full dataset can be accessed from [Google Drive link](https://drive.google.com/file/d/16cmOlJ-8--7vqIXY-hP0JXtRwqaPoOfh/view?usp=sharing).
+  - More descriptions of the full data statistics are shown in the **GitHub repo**: [causalNLP/AI-Scholar](https://github.com/causalNLP/AI-Scholar).
 
 Instead, you can use the following commands to download the full dataset:
 
